@@ -1,12 +1,6 @@
 Earth LOOP is a frontend application designed to support environmental conservation efforts. This project aims to provide a user-friendly interface for tracking carbon footprints, participating in recycling programs, and engaging in wildlife conservation activities.
 
 
-## Usage
-Open Your Browser
-
-Navigate to http://localhost:3000 to view the application.
-Explore Features
-
 ## Log in or register to start using the application.
 Track your carbon footprint, participate in recycling programs, and engage in wildlife conservation activities.
 
