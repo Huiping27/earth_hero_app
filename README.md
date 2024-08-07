@@ -46,7 +46,7 @@ This project uses Browserslist to specify which browsers to support.
 
 
 ## License
-EarthHero Clone is licensed under the MIT License. See the LICENSE file for more information.
+Earth LOOP is licensed under the MIT License. See the LICENSE file for more information.
 
 ## Arthur
 Huiping Li
