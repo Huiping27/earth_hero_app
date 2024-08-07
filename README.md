@@ -19,38 +19,30 @@ Launches the test runner in the interactive watch mode. See the section about ru
 Builds the app for production to the build folder. It correctly bundles React in production mode and optimizes the build for the best performance.
 
 ## Dependencies
-@testing-library/jest-dom: ^5.17.0
-@testing-library/react: ^13.4.0
-@testing-library/user-event: ^13.5.0
-axios: ^1.7.3
-react: ^18.3.1
-react-dom: ^18.3.1
-react-router-dom: ^6.26.0
-react-scripts: 5.0.1
-web-vitals: ^2.1.4
-Browserslist
-This project uses Browserslist to specify which browsers to support.
-
-Production
->0.2%
-not dead
-not op_mini all
-Development
-last 1 chrome version
-last 1 firefox version
-last 1 safari version
+. @testing-library/jest-dom: ^5.17.0
+. @testing-library/react: ^13.4.0
+. @testing-library/user-event: ^13.5.0
+. axios: ^1.7.3
+. react: ^18.3.1
+. react-dom: ^18.3.1
+. react-router-dom: ^6.26.0
+. react-scripts: 5.0.1
+. web-vitals: ^2.1.4
 
 ## Browserslist
 This project uses Browserslist to specify which browsers to support.
 
 ## Production
->0.2%
-not dead
-not op_mini all
-Development
-last 1 chrome version
-last 1 firefox version
-last 1 safari version
+. >0.2%
+. not dead
+. not op_mini all
+. Development
+. last 1 chrome version
+. last 1 firefox version
+. last 1 safari version
+
+## Browserslist
+This project uses Browserslist to specify which browsers to support.
 
 
 ## License
