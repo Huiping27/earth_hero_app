@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+Earth LOOP is a frontend application designed to support environmental conservation efforts. This project aims to provide a user-friendly interface for tracking carbon footprints, participating in recycling programs, and engaging in wildlife conservation activities.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Usage
+Open Your Browser
+
+Navigate to http://localhost:3000 to view the application.
+Explore Features
+
+## Log in or register to start using the application.
+Track your carbon footprint, participate in recycling programs, and engage in wildlife conservation activities.
 
 ## Available Scripts
-
 In the project directory, you can run:
 
-### `npm start`
+## npm start
+Runs the app in the development mode. Open http://localhost:3000 to view it in your browser.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The page will reload when you make changes. You may also see any lint errors in the console.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## npm test
+Launches the test runner in the interactive watch mode. See the section about running tests for more information.
 
-### `npm test`
+## npm run build
+Builds the app for production to the build folder. It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Dependencies
+@testing-library/jest-dom: ^5.17.0
+@testing-library/react: ^13.4.0
+@testing-library/user-event: ^13.5.0
+axios: ^1.7.3
+react: ^18.3.1
+react-dom: ^18.3.1
+react-router-dom: ^6.26.0
+react-scripts: 5.0.1
+web-vitals: ^2.1.4
+Browserslist
+This project uses Browserslist to specify which browsers to support.
 
-### `npm run build`
+Production
+>0.2%
+not dead
+not op_mini all
+Development
+last 1 chrome version
+last 1 firefox version
+last 1 safari version
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Browserslist
+This project uses Browserslist to specify which browsers to support.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Production
+>0.2%
+not dead
+not op_mini all
+Development
+last 1 chrome version
+last 1 firefox version
+last 1 safari version
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## License
+EarthHero Clone is licensed under the MIT License. See the LICENSE file for more information.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Arthur
+Huiping Li
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
