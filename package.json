@@ -1,6 +1,6 @@
 {
   "proxy": "http://localhost:5000",
-  "name": "LOOP",
+  "name": "LOOP Earth",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
